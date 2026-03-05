@@ -1,5 +1,5 @@
 # Day 4 – MAC Address & ARP
-
+ 
 ## MAC Address
 - MAC stands for Media Access Control Address.
 - It is a unique hardware address of a network device.
