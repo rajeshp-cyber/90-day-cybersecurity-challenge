@@ -45,3 +45,4 @@ When a device wants to communicate with another device in a local network:
 3. The device with that IP responds with an ARP Reply containing its MAC address.
 4. The sender stores this MAC address in the ARP table.
 5. Communication starts using the MAC address.
+
