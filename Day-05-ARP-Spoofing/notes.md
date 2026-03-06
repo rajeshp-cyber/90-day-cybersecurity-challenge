@@ -27,7 +27,7 @@ The attacker can monitor, modify, or intercept the data.
 ## Key Point
 ARP spoofing works because ARP does not verify the authenticity of ARP replies.
 
-#Evening
+# Evening
 
 Topics Covered:
 • Network Devices (Router, Switch, Hub, Firewall)
