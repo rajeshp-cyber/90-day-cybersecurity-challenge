@@ -26,3 +26,16 @@ The attacker can monitor, modify, or intercept the data.
 
 ## Key Point
 ARP spoofing works because ARP does not verify the authenticity of ARP replies.
+
+#Evening
+
+Topics Covered:
+• Network Devices (Router, Switch, Hub, Firewall)
+• Types of IP Addresses
+• Basic Protocols (HTTP, HTTPS, DNS, DHCP)
+
+Notes:
+Router connects different networks.
+Switch forwards frames using MAC addresses.
+DNS converts domain names to IP addresses.
+DHCP automatically assigns IP addresses.
