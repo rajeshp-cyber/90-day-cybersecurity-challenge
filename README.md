@@ -13,5 +13,6 @@ Become internship-ready for a SOC Analyst role.
 - Day 3 – OSI Model & Firewall Logic
 - Day 4 – MAC Address & ARP
 - Day 5 – ARP Spoofing & Man-in-the-Middle Attack
+- Day 6 – Packet Sniffing & Wireshark Basics
 
 This repository documents my daily learning, notes, and practical understanding of cybersecurity fundamentals.
